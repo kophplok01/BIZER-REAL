@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#FFC107</color>
+    <color name="Black">#FFFFFF</color>
+    <color name="trans"> #00000000</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#C5BBBE</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="colorPrimary">#004C99</color>
+    <color name="gradient_end_color">#fad0c4</color>
+    <color name="colorPrimaryDark">#373b44</color>
+    <color name="colorAccent">#fff</color>
+    <color name="grad1">#004C99</color>
+    <color name="grad3">#373B44</color>
+    <color name="grad2">#4286f4</color>
+    <color name="tab_indicator_gravy">#c0c0c0</color>
+    <color name="intro_tittle_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+    <color name="transparent">#00000000</color>
+    <color name="verde">#00BFA5</color>
+    <color name="rosa">#ff4081</color>
+    <color name="amari">#FFB300</color>
+    <color name="morado">#7c4dff</color>
+
+</resources>

@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "535349805670",
+    "firebase_url": "https://abeja-juego.firebaseio.com",
+    "project_id": "abeja-juego",
+    "storage_bucket": "abeja-juego.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535349805670:android:730d3ce07184f2ca2763a7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535349805670-i7u8r31m0dbe7msr6jif7fd6k9edrg44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "d66083d23a02520475fa003bfac88141d10536b2"
+          }
+        },
+        {
+          "client_id": "535349805670-a2qdced4gt6goa9stkdq43os6m1qf86d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASZHs47Lciy1YGI3i9hqeOtx8ncALtFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535349805670-a2qdced4gt6goa9stkdq43os6m1qf86d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535349805670:android:78d17ceb2ec91d2b2763a7",
+        "android_client_info": {
+          "package_name": "com.ozymandias.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535349805670-cef6r4rqvi7jevilb7l5krr1f27hiebu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ozymandias.myapplication",
+            "certificate_hash": "d66083d23a02520475fa003bfac88141d10536b2"
+          }
+        },
+        {
+          "client_id": "535349805670-a2qdced4gt6goa9stkdq43os6m1qf86d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASZHs47Lciy1YGI3i9hqeOtx8ncALtFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535349805670-a2qdced4gt6goa9stkdq43os6m1qf86d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

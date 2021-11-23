@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "535349805670",
+    "firebase_url": "https://abeja-juego.firebaseio.com",
+    "project_id": "abeja-juego",
+    "storage_bucket": "abeja-juego.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535349805670:android:a44b6203de83a3832763a7",
+        "android_client_info": {
+          "package_name": "com.ozymandias.chacal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535349805670-f3eb4r5a0anusbgegblqpl2m86snrsj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ozymandias.chacal",
+            "certificate_hash": "d66083d23a02520475fa003bfac88141d10536b2"
+          }
+        },
+        {
+          "client_id": "535349805670-a2qdced4gt6goa9stkdq43os6m1qf86d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASZHs47Lciy1YGI3i9hqeOtx8ncALtFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535349805670-a2qdced4gt6goa9stkdq43os6m1qf86d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535349805670:android:78d17ceb2ec91d2b2763a7",
+        "android_client_info": {
+          "package_name": "com.ozymandias.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535349805670-2v8mip5b2u9vgjmao5e4ft4ak4qqeck7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ozymandias.myapplication",
+            "certificate_hash": "3240ea62391f5e691e50fad83e90e2d04a7bcffc"
+          }
+        },
+        {
+          "client_id": "535349805670-3202sdlpoksfe2bna5khgha7lf3e6tot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ozymandias.myapplication",
+            "certificate_hash": "891eec5ab4f2a5c9b0934cf6ba71c089113a804d"
+          }
+        },
+        {
+          "client_id": "535349805670-cef6r4rqvi7jevilb7l5krr1f27hiebu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ozymandias.myapplication",
+            "certificate_hash": "d66083d23a02520475fa003bfac88141d10536b2"
+          }
+        },
+        {
+          "client_id": "535349805670-a2qdced4gt6goa9stkdq43os6m1qf86d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASZHs47Lciy1YGI3i9hqeOtx8ncALtFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535349805670-a2qdced4gt6goa9stkdq43os6m1qf86d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535349805670:android:07c9bc57517cb7a62763a7",
+        "android_client_info": {
+          "package_name": "com.ozymandias.optima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535349805670-a2qdced4gt6goa9stkdq43os6m1qf86d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASZHs47Lciy1YGI3i9hqeOtx8ncALtFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535349805670-a2qdced4gt6goa9stkdq43os6m1qf86d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
